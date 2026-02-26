@@ -1,0 +1,11 @@
+Flask
+Flask-CORS
+Flask-SocketIO
+psycopg2-binary
+SQLAlchemy
+opencv-python
+ultralytics
+face-recognition
+numpy
+pandas
+python-dotenv
